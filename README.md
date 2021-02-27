@@ -1,3 +1,3 @@
 # hello-world
 beginner repository
-Just typing randomly for now!
+Randomly typing here for comparision
